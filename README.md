@@ -257,6 +257,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [dotforge](https://github.com/luiseiman/dotforge) - Configuration factory for Claude Code — 17 skills, 7 agents, 15 stacks, audit scoring (0-10), practices pipeline.
 - [slack-message-formatter](./plugins/slack-message-formatter)
 - [cc-hud](https://github.com/WaterTian/cc-hud) — Compact single-line statusline: model name, context usage bar, active subagents, rate limits. Zero dependencies.
+- [prismantis](https://github.com/NahumLitvin/prismantis) - Claude Code mod that renders replies as colored tables, highlighted code, mermaid diagrams and charts, in 15 themes.
 - [vara-skills](./plugins/vara-skills)
 - [superlocalmemory](https://github.com/qualixar/superlocalmemory) - External: Persistent memory + learning MCP server for Claude Code. Zero-cloud, 6-channel retrieval, 16K+ monthly downloads. Backed by 3 arXiv papers.
 - [skill-auto-installer](./plugins/skill-auto-installer)
